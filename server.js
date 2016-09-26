@@ -2,8 +2,8 @@
 
 const express = require('express');
 const cookieParser = require('cookie-parser');
-const bodyParser = require('body-parser-rawbody');
-const morgan = require('morgan');
+//const bodyParser = require('body-parser-rawbody');
+//const morgan = require('morgan');
 const util = require('util');
 
 const serverA = express();
